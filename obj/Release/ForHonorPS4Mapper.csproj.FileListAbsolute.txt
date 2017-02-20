@@ -1,0 +1,14 @@
+C:\Users\Kyle\documents\visual studio 2015\Projects\ForHonorPS4Binder\ForHonorPS4Binder\bin\Release\ForHonorPS4Binder.exe.config
+C:\Users\Kyle\documents\visual studio 2015\Projects\ForHonorPS4Binder\ForHonorPS4Binder\bin\Release\ForHonorPS4Binder.exe
+C:\Users\Kyle\documents\visual studio 2015\Projects\ForHonorPS4Binder\ForHonorPS4Binder\bin\Release\ForHonorPS4Binder.pdb
+C:\Users\Kyle\documents\visual studio 2015\Projects\ForHonorPS4Binder\ForHonorPS4Binder\obj\Release\ForHonorPS4Mapper.csprojResolveAssemblyReference.cache
+C:\Users\Kyle\documents\visual studio 2015\Projects\ForHonorPS4Binder\ForHonorPS4Binder\obj\Release\MainWindow.g.cs
+C:\Users\Kyle\documents\visual studio 2015\Projects\ForHonorPS4Binder\ForHonorPS4Binder\obj\Release\App.g.cs
+C:\Users\Kyle\documents\visual studio 2015\Projects\ForHonorPS4Binder\ForHonorPS4Binder\obj\Release\ForHonorPS4Binder_MarkupCompile.cache
+C:\Users\Kyle\documents\visual studio 2015\Projects\ForHonorPS4Binder\ForHonorPS4Binder\obj\Release\ForHonorPS4Binder_MarkupCompile.lref
+C:\Users\Kyle\documents\visual studio 2015\Projects\ForHonorPS4Binder\ForHonorPS4Binder\obj\Release\MainWindow.baml
+C:\Users\Kyle\documents\visual studio 2015\Projects\ForHonorPS4Binder\ForHonorPS4Binder\obj\Release\ForHonorPS4Binder.g.resources
+C:\Users\Kyle\documents\visual studio 2015\Projects\ForHonorPS4Binder\ForHonorPS4Binder\obj\Release\ForHonorPS4Binder.Properties.Resources.resources
+C:\Users\Kyle\documents\visual studio 2015\Projects\ForHonorPS4Binder\ForHonorPS4Binder\obj\Release\ForHonorPS4Mapper.csproj.GenerateResource.Cache
+C:\Users\Kyle\documents\visual studio 2015\Projects\ForHonorPS4Binder\ForHonorPS4Binder\obj\Release\ForHonorPS4Binder.exe
+C:\Users\Kyle\documents\visual studio 2015\Projects\ForHonorPS4Binder\ForHonorPS4Binder\obj\Release\ForHonorPS4Binder.pdb
